@@ -8,7 +8,7 @@ export default defineConfig({
   cacheDir: './node_modules/.vite/tafcarclient',
 
   server: {
-    port: 8080,
+    port: 4200,
     host: 'localhost',
   },
 
